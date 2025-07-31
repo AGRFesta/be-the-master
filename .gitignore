@@ -1,0 +1,4 @@
+.env.dev
+.env.prod
+run-docker-compose-*.bat
+*.log
