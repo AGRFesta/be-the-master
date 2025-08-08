@@ -1,9 +1,9 @@
 # Be the Master!
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://semver.org)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![Docker Compose](https://img.shields.io/badge/Docker--Compose-3-blue)](https://docs.docker.com/compose/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-lightblue)](https://github.com/pgvector/pgvector)  
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://semver.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Docker Compose](https://img.shields.io/badge/Docker--Compose-3-blue)](https://docs.docker.com/compose/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-lightblue)](https://github.com/pgvector/pgvector)
 [![Redis](https://img.shields.io/badge/Redis-7.0.10-red)](https://redis.io/)
 
 ---

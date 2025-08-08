@@ -38,7 +38,7 @@ services:
     cpus: 0.5
     
   e5-embeddings-service:
-    image: e5-embedder:latest
+    image: 'e5-embedder:0.1.0'
     container_name: ${E5_SERVICE_CONTAINER}
     restart: unless-stopped 
     ports: 
