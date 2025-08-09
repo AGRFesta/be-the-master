@@ -38,7 +38,7 @@ services:
     cpus: 0.5
     
   e5-embeddings-service:
-    image: 'e5-embedder:0.1.0'
+    image: 'e5-embedder:0.2.0'
     container_name: ${E5_SERVICE_CONTAINER}
     restart: unless-stopped 
     ports: 
@@ -50,7 +50,7 @@ services:
     cpus: 1.0
       
   btm-api:
-    image: 'agrfesta/be-the-master:0.1.0'
+    image: 'agrfesta/be-the-master-api:0.1.1'
     container_name: ${BTM_API_CONTAINER}
     mem_limit: 256M
     mem_reservation: 128M
